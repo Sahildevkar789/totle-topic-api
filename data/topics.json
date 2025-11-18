@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "JavaScript Fundamentals", "category": "Programming" },
+  { "id": 2, "name": "Node.js Backend Development", "category": "Backend" },
+  { "id": 3, "name": "React Frontend Basics", "category": "Frontend" },
+  { "id": 4, "name": "Database Management Systems", "category": "Computer Science" },
+  { "id": 5, "name": "Machine Learning Intro", "category": "AI" }
+]
